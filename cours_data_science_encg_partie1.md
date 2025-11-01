@@ -4,7 +4,7 @@
 
 
 
-<img src="image1.jpg" style="height:264px;margin-right:232px"/>
+<img src="WhatsApp Image 2025-10-11 at 16.04.48_543820eb.jpg" style="height:264px;margin-right:232px"/>
 
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
