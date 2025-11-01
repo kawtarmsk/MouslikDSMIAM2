@@ -1,6 +1,6 @@
 # COURS DE SCIENCE DES DONNÉES
 
-# A. Larhlimi
+# K. Mouslik
 
 
 
